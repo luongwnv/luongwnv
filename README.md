@@ -36,5 +36,4 @@
 </tr>
 </table>  
 <hr/>
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=coder7290&theme=xcode" /></div>
 <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
