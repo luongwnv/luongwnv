@@ -34,5 +34,4 @@
         </div>
     </td>
 </tr>
-</table>  
-<hr/>
+</table>
