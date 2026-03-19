@@ -38,9 +38,9 @@
                 <img style="margin: 10px"
                     src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker"
                     height="50" />
-                <!-- <img style="margin: 10px"
+                <img style="margin: 10px"
                     src="https://kb.pavietnam.vn/wp-content/uploads/2021/08/k8s-logo.png"
-                    alt="Kubernetes" height="48.61" /> -->
+                    alt="Kubernetes" height="48.61" />
                 <img style="margin: 10px" alt="VMware" height="50"
                     src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" />
                 <img style="margin: 10px" src="https://img.icons8.com/doodle/512/bash.png"
