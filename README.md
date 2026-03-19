@@ -15,8 +15,8 @@
                     src="https://img.icons8.com/?size=512&id=44442&format=png" />
                 <img style="margin: 10px" alt="Angular" height="50"
                     src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/angular/angular.png" />
-                <img style="margin: 10px" alt="Vue" height="50"
-                    src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
+                <!-- <img style="margin: 10px" alt="Vue" height="50"
+                    src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" /> -->
                 <img style="margin: 10px" alt="GraphQL" height="49.18"
                     src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
                 <img style="margin: 10px" alt="SQL" height="50"
