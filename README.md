@@ -1,4 +1,4 @@
-<h1>Hi there, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+<h1>Hi! I'm Luong, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
     <br>
 
 
@@ -39,7 +39,7 @@
                     src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker"
                     height="50" />
                 <img style="margin: 10px"
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/791px-Kubernetes_logo_without_workmark.svg.png"
+                    src="https://kb.pavietnam.vn/wp-content/uploads/2021/08/k8s-logo.png"
                     alt="Kubernetes" height="48.61" />
                 <img style="margin: 10px" alt="VMware" height="50"
                     src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" />
