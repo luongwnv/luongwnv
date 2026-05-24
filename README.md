@@ -2,13 +2,14 @@
     <br>
 
 
-<table style="margin-top:10px !important;">
+<table style="margin-top:10px !important; width:100%;">
     <tr>
         <td valign="top" width="50%">
             <div align="center">
                 <h6> <b> Software Developer </b> </h6>
             </div>
             <div align="center">
+                <nobr>
                 <img style="margin: 10px" alt="Node.js" height="50"
                     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
                 <img style="margin: 10px" alt="Golang" height="50"
@@ -23,6 +24,7 @@
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
                 <img style="margin: 10px" alt="MongoDB" height="50"
                     src="https://gcollazo.github.io/mongodbapp/assets/img/icon.png" />
+                </nobr>
             </div>
         </td>
         <td valign="top" width="50%">
@@ -30,6 +32,7 @@
                 <h6><b>DevOps Toolchain</b></h6>
             </div>
             <div align="center">
+                <nobr>
                 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
                     alt="Linux" height="50" />
                 <img style="margin: 10px"
@@ -47,6 +50,7 @@
                     alt="Bash" height="50" />
                 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
                     alt="Git" height="50" />
+                </nobr>
             </div>
         </td>
     </tr>
