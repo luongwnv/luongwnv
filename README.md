@@ -20,7 +20,7 @@
                 <img style="margin: 10px" alt="GraphQL" height="49.18"
                     src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
                 <img style="margin: 10px" alt="SQL" height="50"
-                    src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
                 <img style="margin: 10px" alt="MongoDB" height="50"
                     src="https://gcollazo.github.io/mongodbapp/assets/img/icon.png" />
             </div>
@@ -33,7 +33,7 @@
                 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
                     alt="Linux" height="50" />
                 <img style="margin: 10px"
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
                     alt="Windows" height="50" />
                 <img style="margin: 10px"
                     src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker"
