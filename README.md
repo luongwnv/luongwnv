@@ -1,60 +1,120 @@
-<h1>Hi! I'm Luong, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-<br>
-<span>My portfolio: </span>
-<a href="https://luongwnv.github.io/me" target="_blank">
-  https://luongwnv.github.io/me
-</a>
-<br>
-<table style="margin-top:10px !important; width:100%;">
-    <tr>
-        <td valign="top" width="50%">
-            <div align="center">
-                <h6> <b> Software Developer </b> </h6>
-            </div>
-            <div align="center">
-                <nobr>
-                <img style="margin: 10px" alt="Node.js" height="50"
-                    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-                <img style="margin: 10px" alt="Golang" height="50"
-                    src="https://img.icons8.com/?size=512&id=44442&format=png" />
-                <img style="margin: 10px" alt="Angular" height="50"
-                    src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/angular/angular.png" />
-                <!-- <img style="margin: 10px" alt="Vue" height="50"
-                    src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" /> -->
-                <img style="margin: 10px" alt="GraphQL" height="49.18"
-                    src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
-                <img style="margin: 10px" alt="SQL" height="50"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-                <img style="margin: 10px" alt="MongoDB" height="50"
-                    src="https://gcollazo.github.io/mongodbapp/assets/img/icon.png" />
-                </nobr>
-            </div>
-        </td>
-        <td valign="top" width="50%">
-            <div align="center">
-                <h6><b>DevOps Toolchain</b></h6>
-            </div>
-            <div align="center">
-                <nobr>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
-                    alt="Linux" height="50" />
-                <img style="margin: 10px"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
-                    alt="Windows" height="50" />
-                <img style="margin: 10px"
-                    src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker"
-                    height="50" />
-                <!-- <img style="margin: 10px"
-                    src="https://kb.pavietnam.vn/wp-content/uploads/2021/08/k8s-logo.png"
-                    alt="Kubernetes" height="48.61" /> -->
-                <img style="margin: 10px" alt="VMware" height="50"
-                    src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" />
-                <img style="margin: 10px" src="https://img.icons8.com/doodle/512/bash.png"
-                    alt="Bash" height="50" />
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
-                    alt="Git" height="50" />
-                </nobr>
-            </div>
-        </td>
-    </tr>
-</table>
+# Luong Nguyen
+
+**Software Engineer**
+
+I build backend services with Node.js, Go, Rust, and TypeScript, with supporting experience in web applications, cloud infrastructure, and AI platform integrations.
+
+[Portfolio](https://luongwnv.github.io/me) · [GitHub](https://github.com/luongwnv)
+
+## Core skills & toolkit
+
+### Backend development
+
+<p>
+  <img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/go.svg" alt="Go" title="Go" width="50" height="50" />&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/rust-dark.svg" />
+    <img src="assets/icons/rust.svg" alt="Rust" title="Rust" width="50" height="50" />
+  </picture>&nbsp;&nbsp;
+  <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="50" height="50" />
+</p>
+
+<sub>Node.js · Go · Rust · TypeScript</sub>
+
+### Frontend & CMS · supporting
+
+<p>
+  <img src="assets/icons/angular.svg" alt="Angular" title="Angular" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/angularjs.svg" alt="AngularJS" title="AngularJS" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/react.svg" alt="ReactJS" title="ReactJS" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/vue.svg" alt="Vue.js" title="Vue.js" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/strapi.svg" alt="Strapi" title="Strapi" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/html.svg" alt="HTML" title="HTML" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/css.svg" alt="CSS" title="CSS" width="50" height="50" />
+</p>
+
+<sub>Angular · AngularJS · ReactJS · Vue.js · Strapi · HTML · CSS</sub>
+
+### Architecture & APIs
+
+<p>
+  <img src="assets/icons/microservices.svg" alt="Microservices" title="Microservices" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/event-driven.svg" alt="Event-driven architecture" title="Event-driven architecture" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/distributed-systems.svg" alt="Distributed systems" title="Distributed systems" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/api-design.svg" alt="API design" title="API design" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/graphql.svg" alt="GraphQL" title="GraphQL" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/websockets.svg" alt="WebSockets" title="WebSockets" width="50" height="50" />
+</p>
+
+<sub>Microservices · Event-driven architecture · Distributed systems · API design · GraphQL · WebSockets</sub>
+
+### Databases & search
+
+<p>
+  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/sqlserver.svg" alt="SQL Server" title="SQL Server" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/redis.svg" alt="Redis" title="Redis" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/meilisearch.svg" alt="Meilisearch" title="Meilisearch" width="50" height="50" />
+</p>
+
+<sub>PostgreSQL · SQL Server · MySQL · MongoDB · Redis · Elasticsearch · Meilisearch</sub>
+
+### Messaging & queues
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/kafka-dark.svg" />
+    <img src="assets/icons/kafka.svg" alt="Kafka" title="Kafka" width="50" height="50" />
+  </picture>&nbsp;&nbsp;
+  <img src="assets/icons/rabbitmq.svg" alt="RabbitMQ" title="RabbitMQ" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/bull.svg" alt="Bull" title="Bull" width="50" height="50" />
+</p>
+
+<sub>Kafka · RabbitMQ · Bull</sub>
+
+### Cloud & DevOps
+
+<p>
+  <img src="assets/icons/docker.svg" alt="Docker" title="Docker" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="50" height="50" />&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/aws-dark.svg" />
+    <img src="assets/icons/aws.svg" alt="AWS (S3, ECS)" title="AWS (S3, ECS)" width="50" height="50" />
+  </picture>&nbsp;&nbsp;
+  <img src="assets/icons/cicd.svg" alt="CI/CD pipelines" title="CI/CD pipelines" width="50" height="50" />
+</p>
+
+<sub>Docker · Kubernetes · AWS (S3, ECS) · CI/CD pipelines</sub>
+
+### AI & integrations
+
+<p>
+  <img src="assets/icons/ai-integration.svg" alt="AI platform integration" title="AI platform integration" width="50" height="50" />&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/langchain-dark.svg" />
+    <img src="assets/icons/langchain.svg" alt="LangChain" title="LangChain" width="50" height="50" />
+  </picture>&nbsp;&nbsp;
+  <img src="assets/icons/sharepoint.svg" alt="SharePoint" title="SharePoint" width="50" height="50" />
+</p>
+
+<sub>AI platform integration · LangChain · SharePoint</sub>
+
+### Development tools
+
+<p>
+  <img src="assets/icons/linux.svg" alt="Linux" title="Linux" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/windows.svg" alt="Windows" title="Windows" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/vmware.png" alt="VMware" title="VMware" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/bash.svg" alt="Bash" title="Bash" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/git.svg" alt="Git" title="Git" width="50" height="50" />
+</p>
+
+<sub>Linux · Windows · VMware · Bash · Git</sub>
+
+## Explore my work
+
+Visit my [portfolio](https://luongwnv.github.io/me) for more about my work, or browse my [repositories](https://github.com/luongwnv?tab=repositories) to explore the code.

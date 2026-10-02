@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 64 64" role="img">
+  <title>Distributed systems</title>
+  <rect width="64" height="64" rx="12" fill="#f5f3ff" />
+  <circle cx="32" cy="31" r="22" fill="#7c3aed" />
+  <circle cx="32" cy="31" r="19" fill="#f5f3ff" />
+  <ellipse cx="32" cy="31" rx="10" ry="20" fill="#7c3aed" />
+  <ellipse cx="32" cy="31" rx="7" ry="18" fill="#f5f3ff" />
+  <rect x="11" y="29.5" width="42" height="3" fill="#7c3aed" />
+  <rect x="16" y="18" width="32" height="2.5" fill="#7c3aed" />
+  <rect x="16" y="42" width="32" height="2.5" fill="#7c3aed" />
+  <rect x="4" y="6" width="19" height="16" rx="4" fill="#f5f3ff" />
+  <rect x="41" y="6" width="19" height="16" rx="4" fill="#f5f3ff" />
+  <rect x="23" y="44" width="19" height="16" rx="4" fill="#f5f3ff" />
+  <rect x="5" y="7" width="17" height="14" rx="3" fill="#6d28d9" />
+  <rect x="42" y="7" width="17" height="14" rx="3" fill="#6d28d9" />
+  <rect x="24" y="45" width="17" height="14" rx="3" fill="#6d28d9" />
+  <rect x="10" y="11" width="7" height="2" rx="1" fill="#fff" />
+  <rect x="47" y="11" width="7" height="2" rx="1" fill="#fff" />
+  <rect x="29" y="49" width="7" height="2" rx="1" fill="#fff" />
+</svg>
