@@ -1,6 +1,9 @@
 <h1>Hi! I'm Luong, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-    <br>
-
+<br>
+<span>My portfolio: </span>
+<a href="https://luongwnv.github.io/me" target="_blank">
+  https://luongwnv.github.io/me
+</a>
 
 <table style="margin-top:10px !important; width:100%;">
     <tr>
