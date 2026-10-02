@@ -1,10 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 64 64" role="img">
   <title>Event-driven architecture</title>
-  <rect width="64" height="64" rx="12" fill="#fff7ed" />
   <polygon points="21,6 7,32 19,32 14,58 35,25 23,25 30,6" fill="#f97316" />
-  <polygon points="33,31 37,31 37,27 43,33 37,39 37,35 33,35" fill="#c2410c" />
-  <rect x="44" y="15" width="15" height="35" rx="4" fill="#fb923c" />
-  <rect x="48" y="22" width="7" height="2.5" rx="1" fill="#fff" />
-  <rect x="48" y="31" width="7" height="2.5" rx="1" fill="#fff" />
-  <rect x="48" y="40" width="7" height="2.5" rx="1" fill="#fff" />
+  <polygon points="33,31 37,31 37,27 43,33 37,39 37,35 33,35" fill="#f97316" />
+  <rect x="44" y="15" width="15" height="35" fill="#f97316" />
+  <rect x="48" y="22" width="7" height="2.5" fill="#fff" />
+  <rect x="48" y="31" width="7" height="2.5" fill="#fff" />
+  <rect x="48" y="40" width="7" height="2.5" fill="#fff" />
 </svg>

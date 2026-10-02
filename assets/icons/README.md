@@ -16,6 +16,10 @@ SVG root dimensions are set to 50 × 50 so Markdown previews that override image
 
 Microservices, event-driven architecture, distributed systems, API design, WebSockets, CI/CD, and AI integration use custom SVG illustrations. These depict concepts and are not brand logos.
 
-Architecture illustrations use distinct colors and familiar shapes: service blocks, an event lightning bolt, a networked globe, an API terminal, and a two-way connection.
+Architecture illustrations use distinct colors and familiar shapes: service blocks, an event lightning bolt, a networked globe, an API wordmark with code brackets, and a two-way connection.
 
 AI integration uses a purple AI chip with connection nodes and a cyan sparkle.
+
+Custom concept icons use transparent backgrounds and flat colors to match the surrounding technology logos.
+
+The five architecture and API icons use square rectangles and a single accent color per icon, with white details and no gradients or shadows.

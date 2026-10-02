@@ -4,7 +4,13 @@
 
 I build backend services with Node.js, Go, Rust, and TypeScript, with supporting experience in web applications, cloud infrastructure, and AI platform integrations.
 
-[Portfolio](https://luongwnv.github.io/me) · [GitHub](https://github.com/luongwnv)
+<p>
+  <img src="assets/banners/github-octocat-cropped.png" alt="GitHub Octocat above a colorful geometric banner" width="646" height="240" />
+</p>
+
+<p>
+  <a href="https://luongwnv.github.io/me"><img src="assets/buttons/portfolio.svg" alt="View my portfolio" title="Portfolio" width="323" height="40" /></a><a href="https://github.com/luongwnv"><img src="assets/buttons/github.svg" alt="Visit my GitHub profile" title="GitHub" width="323" height="40" /></a>
+</p>
 
 ## Core skills & toolkit
 

@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 64 64" role="img">
   <title>AI platform integration</title>
-  <rect width="64" height="64" rx="12" fill="#f5f3ff" />
   <rect x="29.5" y="8" width="5" height="12" rx="2" fill="#a78bfa" />
   <rect x="29.5" y="44" width="5" height="12" rx="2" fill="#a78bfa" />
   <rect x="8" y="29.5" width="12" height="5" rx="2" fill="#a78bfa" />
@@ -9,7 +8,6 @@
   <circle cx="32" cy="57" r="4" fill="#7c3aed" />
   <circle cx="7" cy="32" r="4" fill="#6366f1" />
   <circle cx="57" cy="32" r="4" fill="#7c3aed" />
-  <rect x="16" y="18" width="32" height="32" rx="8" fill="#ddd6fe" />
   <rect x="16" y="16" width="32" height="32" rx="8" fill="#6d28d9" />
   <rect x="21" y="21" width="22" height="22" rx="5" fill="#8b5cf6" />
   <text x="32" y="39" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">AI</text>

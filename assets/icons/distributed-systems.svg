@@ -1,20 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 64 64" role="img">
   <title>Distributed systems</title>
-  <rect width="64" height="64" rx="12" fill="#f5f3ff" />
-  <circle cx="32" cy="31" r="22" fill="#7c3aed" />
-  <circle cx="32" cy="31" r="19" fill="#f5f3ff" />
-  <ellipse cx="32" cy="31" rx="10" ry="20" fill="#7c3aed" />
-  <ellipse cx="32" cy="31" rx="7" ry="18" fill="#f5f3ff" />
+  <path fill-rule="evenodd" d="M32 9 C44.15 9 54 18.85 54 31 C54 43.15 44.15 53 32 53 C19.85 53 10 43.15 10 31 C10 18.85 19.85 9 32 9 Z M32 12 C42.49 12 51 20.51 51 31 C51 41.49 42.49 50 32 50 C21.51 50 13 41.49 13 31 C13 20.51 21.51 12 32 12 Z" fill="#7c3aed" />
+  <path fill-rule="evenodd" d="M32 11 C37.52 11 42 19.95 42 31 C42 42.05 37.52 51 32 51 C26.48 51 22 42.05 22 31 C22 19.95 26.48 11 32 11 Z M32 14 C35.87 14 39 21.61 39 31 C39 40.39 35.87 48 32 48 C28.13 48 25 40.39 25 31 C25 21.61 28.13 14 32 14 Z" fill="#7c3aed" />
   <rect x="11" y="29.5" width="42" height="3" fill="#7c3aed" />
   <rect x="16" y="18" width="32" height="2.5" fill="#7c3aed" />
   <rect x="16" y="42" width="32" height="2.5" fill="#7c3aed" />
-  <rect x="4" y="6" width="19" height="16" rx="4" fill="#f5f3ff" />
-  <rect x="41" y="6" width="19" height="16" rx="4" fill="#f5f3ff" />
-  <rect x="23" y="44" width="19" height="16" rx="4" fill="#f5f3ff" />
-  <rect x="5" y="7" width="17" height="14" rx="3" fill="#6d28d9" />
-  <rect x="42" y="7" width="17" height="14" rx="3" fill="#6d28d9" />
-  <rect x="24" y="45" width="17" height="14" rx="3" fill="#6d28d9" />
-  <rect x="10" y="11" width="7" height="2" rx="1" fill="#fff" />
-  <rect x="47" y="11" width="7" height="2" rx="1" fill="#fff" />
-  <rect x="29" y="49" width="7" height="2" rx="1" fill="#fff" />
+  <rect x="5" y="7" width="17" height="14" fill="#7c3aed" />
+  <rect x="42" y="7" width="17" height="14" fill="#7c3aed" />
+  <rect x="24" y="45" width="17" height="14" fill="#7c3aed" />
+  <rect x="10" y="11" width="7" height="2" fill="#fff" />
+  <rect x="47" y="11" width="7" height="2" fill="#fff" />
+  <rect x="29" y="49" width="7" height="2" fill="#fff" />
 </svg>
