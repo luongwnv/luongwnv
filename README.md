@@ -120,7 +120,3 @@ I build backend services with Node.js, Go, Rust, and TypeScript, with supporting
 </p>
 
 <sub>Linux · Windows · VMware · Bash · Git</sub>
-
-## Explore my work
-
-Visit my [portfolio](https://luongwnv.github.io/me) for more about my work, or browse my [repositories](https://github.com/luongwnv?tab=repositories) to explore the code.
