@@ -1,11 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 64 64" role="img">
   <title>WebSockets</title>
-  <rect x="3" y="18" width="15" height="30" fill="#059669" />
-  <rect x="46" y="18" width="15" height="30" fill="#059669" />
-  <rect x="7" y="23" width="7" height="14" fill="#fff" />
-  <rect x="50" y="23" width="7" height="14" fill="#fff" />
-  <circle cx="10.5" cy="42" r="1.5" fill="#fff" />
-  <circle cx="53.5" cy="42" r="1.5" fill="#fff" />
-  <polygon points="23,23 34,23 34,18 42,26 34,34 34,29 23,29" fill="#059669" />
-  <polygon points="41,37 30,37 30,32 22,40 30,48 30,43 41,43" fill="#059669" />
+  <path d="M15 10h27V3l18 15-18 15v-8H19L9 38l-7-6Z" fill="#10b981" />
+  <path d="M49 54H22v7L4 46l18-15v8h23l10-13 7 6Z" fill="#047857" />
+  <path d="m42 3 18 15H42Z" fill="#6ee7b7" />
+  <path d="M22 46v15L4 46Z" fill="#10b981" />
 </svg>

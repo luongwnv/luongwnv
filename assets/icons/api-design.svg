@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 64 64" role="img">
   <title>API design</title>
-  <polygon points="12,15 2,31 12,47 16,44 8,31 16,18" fill="#0284c7" />
-  <polygon points="52,15 62,31 52,47 48,44 56,31 48,18" fill="#0284c7" />
-  <text x="32" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#0284c7">API</text>
+  <path d="M23 9 3 29v6l20 20 6-6-17-17 17-17Z" fill="#0284c7" />
+  <path d="m41 9 20 20v6L41 55l-6-6 17-17-17-17Z" fill="#38bdf8" />
+  <path d="m23 9 6 6-17 17H3v-3Z" fill="#38bdf8" />
+  <path d="M52 32h9v3L41 55l-6-6Z" fill="#0284c7" />
+  <path d="m35 17 7 2-13 28-7-2Z" fill="#0369a1" />
 </svg>
