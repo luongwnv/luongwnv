@@ -45,12 +45,12 @@ I build backend services with Node.js, Go, Rust, and TypeScript, with supporting
 ### Architecture & APIs
 
 <p>
-  <img src="assets/icons/microservices.svg" alt="Microservices" title="Microservices" width="50" height="50" />&nbsp;&nbsp;
-  <img src="assets/icons/event-driven.svg" alt="Event-driven architecture" title="Event-driven architecture" width="50" height="50" />&nbsp;&nbsp;
-  <img src="assets/icons/distributed-systems.svg" alt="Distributed systems" title="Distributed systems" width="50" height="50" />&nbsp;&nbsp;
-  <img src="assets/icons/api-design.svg" alt="API design" title="API design" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/microservices-v2.svg" alt="Microservices" title="Microservices" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/event-driven-v2.svg" alt="Event-driven architecture" title="Event-driven architecture" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/distributed-systems-v2.svg" alt="Distributed systems" title="Distributed systems" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/api-design-v2.svg" alt="API design" title="API design" width="50" height="50" />&nbsp;&nbsp;
   <img src="assets/icons/graphql.svg" alt="GraphQL" title="GraphQL" width="50" height="50" />&nbsp;&nbsp;
-  <img src="assets/icons/websockets.svg" alt="WebSockets" title="WebSockets" width="50" height="50" />
+  <img src="assets/icons/websockets-v2.svg" alt="WebSockets" title="WebSockets" width="50" height="50" />
 </p>
 
 <sub>Microservices · Event-driven architecture · Distributed systems · API design · GraphQL · WebSockets</sub>
@@ -99,7 +99,7 @@ I build backend services with Node.js, Go, Rust, and TypeScript, with supporting
 ### AI & integrations
 
 <p>
-  <img src="assets/icons/ai-integration.svg" alt="AI platform integration" title="AI platform integration" width="50" height="50" />&nbsp;&nbsp;
+  <img src="assets/icons/ai-integration-v2.svg" alt="AI platform integration" title="AI platform integration" width="50" height="50" />&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/icons/langchain-dark.svg" />
     <img src="assets/icons/langchain.svg" alt="LangChain" title="LangChain" width="50" height="50" />

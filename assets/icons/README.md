@@ -23,3 +23,5 @@ AI integration uses a two-tone purple and cyan brain with neural connections, re
 Custom concept icons use transparent backgrounds and flat colors to match the surrounding technology logos. Related light, mid, and dark tones add depth without gradients or shadows.
 
 The six custom icons share a 64 × 64 viewBox and render at 50 × 50 in the README. Their silhouettes avoid small lettering so they remain legible at that size on light and dark backgrounds.
+
+The revised concept SVG filenames use `-v2.svg` so GitHub requests fresh images after the redesign instead of reusing the cached originals.
