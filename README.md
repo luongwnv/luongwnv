@@ -2,7 +2,7 @@
 
 **Software Engineer**
 
-I build backend services with Node.js, Go, Rust, and TypeScript, with supporting experience in web applications, cloud infrastructure, and AI platform integrations.
+I build applications with Node.js, Go, Rust, and TypeScript, with supporting experience in web applications, cloud infrastructure, and AI platform integrations.
 
 <p>
   <img src="assets/banners/github-octocat-cropped.png" alt="GitHub Octocat above a colorful geometric banner" width="100%" />
